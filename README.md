@@ -1,1 +1,1 @@
-# COMP251_McGill
+# COMP251
