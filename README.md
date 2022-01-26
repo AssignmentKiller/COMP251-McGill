@@ -1,5 +1,6 @@
 # COMP251
 
+McGill University COMP 251 Algorithms and Data Structure
 
 # Assignment help!!!
 # 100% grade guarantee!!!  
